@@ -16,13 +16,13 @@ This project is a Python script that scrapes app images from the Google Play Sto
 ## Usage
 
 1. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+   ```sh
+   pip install -r requirements.txt
+   ```
 2. Run the scraper:
-    ```sh
-    python Scraper.py
-    ```
+   ```sh
+   python Scraper.py
+   ```
 3. Enter your search query when prompted.
 
 ## Output
